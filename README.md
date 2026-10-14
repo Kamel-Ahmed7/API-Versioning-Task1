@@ -13,7 +13,7 @@
   `GET /api/v1/products` أو `GET /api/v2/products`
 
 * **معاينة وطريقة التنفيذ والنتيجة:**
-  ![URL Path Versioning Output](./screenshots/URL Path Versioning.png)
+  ![URL Path Versioning Output](./screenshots/url-path.png)
 
 ---
 
@@ -24,7 +24,7 @@
   `GET /api/products?api-version=1.0`
 
 * **معاينة وطريقة التنفيذ والنتيجة:**
-  ![Query String Versioning Output](./screenshots/Query String Versioning.png)
+  ![Query String Versioning Output](./screenshots/query-string.png)
 
 ---
 
