@@ -14,7 +14,7 @@
 
 * **معاينة وطريقة التنفيذ والنتيجة:**
   
-<img width="1654" height="691" alt="Query String Versioning" src="https://github.com/user-attachments/assets/afc9266b-9d4d-46d6-93ef-8c49cd49117f" />
+<img width="1622" height="897" alt="URL Path Versioning" src="https://github.com/user-attachments/assets/20eda121-071b-46e1-bba9-8d050de20f1d" />
 
 ---
 
@@ -26,7 +26,7 @@
 
 * **معاينة وطريقة التنفيذ والنتيجة:**
  
-<img width="1622" height="897" alt="URL Path Versioning" src="https://github.com/user-attachments/assets/20eda121-071b-46e1-bba9-8d050de20f1d" />
+<img width="1654" height="691" alt="Query String Versioning" src="https://github.com/user-attachments/assets/afc9266b-9d4d-46d6-93ef-8c49cd49117f" />
 
 ---
 
